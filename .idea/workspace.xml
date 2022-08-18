@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f2d2a6f-6133-4096-a910-bd5698c5c5e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/.idea/React_Base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/components/SearchResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/components/Topbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/logger/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/pages/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/pages/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/pages/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/pages/SearchHistory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React_Base_FrontEnd/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DXIus9FiM01vwb4nM5gLyphMWB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/nickd/IdeaProjects/finalSprintsems4FrontEnd",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nickd\IdeaProjects\finalSprintsems4FrontEnd" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="finalSprintsems4FrontEnd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="finalSprintsems4FrontEnd" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f2d2a6f-6133-4096-a910-bd5698c5c5e7" name="Changes" comment="" />
+      <created>1660839229549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660839229549</updated>
+    </task>
+    <servers />
+  </component>
+</project>
